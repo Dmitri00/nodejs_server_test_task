@@ -1,6 +1,7 @@
 Тестовое задание - веб-сервер на node.js 
 ## Установка и запуск:
-sudo apt install node \n
+sudo apt install node
+
 node < node.js
 
 
